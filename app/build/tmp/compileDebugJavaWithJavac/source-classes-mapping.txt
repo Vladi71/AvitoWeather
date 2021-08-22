@@ -1,0 +1,2 @@
+com/example/avitoweather/BuildConfig.java
+ com.example.avitoweather.BuildConfig
