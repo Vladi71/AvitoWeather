@@ -1,10 +1,13 @@
-#Sun Aug 22 01:04:35 MSK 2021
-base.2=C\:\\Users\\ronrs\\AndroidStudioProjects\\AvitoWeather\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
+#Tue Aug 31 00:11:39 MSK 2021
+path.3=3/classes.dex
 path.2=11/classes.dex
-base.1=C\:\\Users\\ronrs\\AndroidStudioProjects\\AvitoWeather\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 path.1=0/classes.dex
+path.0=classes.dex
+base.3=C\:\\Users\\ronrs\\AndroidStudioProjects\\AvitoWeather\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
+base.2=C\:\\Users\\ronrs\\AndroidStudioProjects\\AvitoWeather\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
+base.1=C\:\\Users\\ronrs\\AndroidStudioProjects\\AvitoWeather\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.0=C\:\\Users\\ronrs\\AndroidStudioProjects\\AvitoWeather\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-path.0=classes.dex

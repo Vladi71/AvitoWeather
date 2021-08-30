@@ -1,2 +1,4 @@
+com/example/avitoweather/databinding/ActivityMainBinding.java
+ com.example.avitoweather.databinding.ActivityMainBinding
 com/example/avitoweather/BuildConfig.java
  com.example.avitoweather.BuildConfig

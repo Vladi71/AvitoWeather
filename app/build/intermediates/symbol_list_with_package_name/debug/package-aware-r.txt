@@ -878,6 +878,7 @@ attr suffixText
 attr suffixTextAppearance
 attr suffixTextColor
 attr suggestionRowLayout
+attr swipeRefreshLayoutProgressSpinnerBackgroundColor
 attr switchMinWidth
 attr switchPadding
 attr switchStyle
@@ -1942,12 +1943,6 @@ id cache_measures
 id cancel_button
 id carryVelocity
 id celsiusTv
-id celsiusTv2
-id celsiusTv3
-id celsiusTv4
-id celsiusTv5
-id celsiusTv6
-id celsiusTv7
 id center
 id center_horizontal
 id center_vertical
@@ -1982,13 +1977,6 @@ id currentState
 id custom
 id customPanel
 id cut
-id dataTv
-id dataTv10
-id dataTv2
-id dataTv3
-id dataTv4
-id dataTv5
-id dataTv6
 id date_picker_actions
 id decelerate
 id decelerateAndComplete
@@ -1996,6 +1984,7 @@ id decor_content_parent
 id default_activity_button
 id deltaRelative
 id dependency_ordering
+id descriptionOfTheWeatherTv
 id design_bottom_sheet
 id design_menu_item_action_area
 id design_menu_item_action_area_stub
@@ -2048,6 +2037,7 @@ id ghost_view_holder
 id gone
 id graph
 id graph_wrap
+id group
 id group_divider
 id grouping
 id groups
@@ -2065,12 +2055,6 @@ id ignore
 id ignoreRequest
 id image
 id imageView
-id imageView2
-id imageView3
-id imageView4
-id imageView5
-id imageView7
-id imageView8
 id immediateStop
 id included
 id info
@@ -2270,12 +2254,6 @@ id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
 id tag_window_insets_animation_callback
 id temperatureTv
-id temperatureTv2
-id temperatureTv3
-id temperatureTv4
-id temperatureTv5
-id temperatureTv7
-id temperatureTv8
 id test_checkbox_android_button_tint
 id test_checkbox_app_button_tint
 id test_radiobutton_android_button_tint
@@ -2489,6 +2467,7 @@ layout text_view_without_line_height
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
+string EnterTheText
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -3440,6 +3419,7 @@ styleable State android_id constraints
 styleable StateListDrawable android_dither android_visible android_variablePadding android_constantSize android_enterFadeDuration android_exitFadeDuration
 styleable StateListDrawableItem android_drawable
 styleable StateSet defaultState
+styleable SwipeRefreshLayout swipeRefreshLayoutProgressSpinnerBackgroundColor
 styleable SwitchCompat android_textOn android_textOff android_thumb showText splitTrack switchMinWidth switchPadding switchTextAppearance thumbTextPadding thumbTint thumbTintMode track trackTint trackTintMode
 styleable SwitchMaterial useMaterialThemeColors
 styleable TabItem android_icon android_layout android_text

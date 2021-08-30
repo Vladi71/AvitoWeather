@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AvitoWeather</string>
+    <string name="EnterTheText">Введите город</string>
 </resources>
